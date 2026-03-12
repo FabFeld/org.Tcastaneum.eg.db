@@ -1,0 +1,95 @@
+The Artistic License 2.0
+
+Preamble
+
+This license establishes the terms under which a package may be copied,
+modified, and redistributed. It is derived from the original Artistic
+License, but revised to clarify and modernize the terms.
+
+1. Definitions
+
+"Package" refers to the collection of files distributed by the Copyright
+Holder, and derivatives of that collection of files created through applying
+the Copyright Holder's patch files or through otherwise modifying the
+work.
+
+"You" and "Your" refers to the licensee or recipient of the Package.
+
+"Copyright Holder" refers to the individual(s) or organization(s) that
+hold copyright in the Package.
+
+2. Grant and Conditions
+
+Permission is granted to use, copy, modify, and distribute the Package,
+provided that the terms of this License are met. Specifically:
+
+- Redistributions of the Package in source form must retain the above
+  copyright notice, this list of conditions and the following disclaimers.
+
+- Redistributions in binary form must reproduce the above copyright
+  notice, this list of conditions and the following disclaimers in the
+  documentation and/or other materials provided with the distribution.
+
+- You may modify your copy or copies of the Package or any portion of it,
+  thus forming a work based on the Package, and distribute such modifications
+  under the terms of this License, provided that you also meet all of the
+  following conditions:
+  - a) You must cause the modified files to carry prominent notices stating
+    that you changed the files and the date of any change;
+
+  - b) You must cause any work that you distribute or publish, that in
+    whole or in part contains or is derived from the Package or any part
+    thereof, to be licensed as a whole at no charge to all third parties
+    under the terms of this License;
+
+  - c) If the modifications you make include new or modified files that are
+    functionally the same as files in the Package, then you must cause those
+    files to carry prominent notices stating that you changed the files and
+    the date of any change; and
+
+  - d) You must not remove or alter any copyright, trademark, or patent
+    notices contained in the Package.
+
+3. Grant of Patent Rights
+
+If you convey the Package, you grant the recipients of the Package a
+perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+patent license to make, have made, use, sell, offer for sale, import and
+otherwise transfer the Package.
+
+4. Disclaimer of Warranty
+
+The Package is provided "as is", without warranty of any kind, express or
+implied, including, but not limited to, the warranties of merchantability,
+fitness for a particular purpose and noninfringement. In no event shall the
+Copyright Holder be liable for any claim, damages or other liability,
+whether in an action of contract, tort or otherwise, arising from, out of
+or in connection with the Package or the use or other dealings in the
+Package.
+
+5. Accepting Warranty or Additional Liability
+
+While redistributing the Package, you may choose to offer, and charge a fee
+for, acceptance of support, warranty, indemnity or other liability related
+to the Package. However, in accepting such obligation, you may act only on
+your own behalf and on your sole responsibility, not on behalf of the
+Copyright Holder. You must indemnify the Copyright Holder against any
+liability incurred by the Copyright Holder as a result of any such
+confidentiality or warranty you offered.
+
+6. Termination
+
+This License will terminate automatically if you fail to comply with the
+terms herein. Upon termination you must cease distribution of the Package
+and destroy all copies of the Package that you control.
+
+7. Miscellaneous
+
+This License represents the complete agreement concerning subject matter
+hereof. If any provision of this License is held to be unenforceable, it
+shall be reformed only to the extent necessary to make it enforceable.
+
+END OF TERMS AND CONDITIONS
+
+For the full canonical Artistic License 2.0 text and an authoritative copy,
+see: https://opensource.org/licenses/Artistic-2.0
