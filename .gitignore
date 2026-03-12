@@ -1,0 +1,16 @@
+# R package build/check artifacts
+*Rcheck/
+org.Tcastaneum.eg.db.Rcheck/
+
+# Built package tarballs
+*.tar.gz
+
+# R / RStudio files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
