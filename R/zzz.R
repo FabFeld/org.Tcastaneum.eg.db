@@ -20,11 +20,13 @@ org.Tcastaneum.egORGANISM <- "Tribolium castaneum"
     sPkgname <- sub(".db$","",pkgname)
     db <- loadDb(system.file("extdata", paste(sPkgname,
       ".sqlite",sep=""), package=pkgname, lib.loc=libname),
-                                     packageName=pkgname)
-        dbNewname <- pkgname
+                   packageName=pkgname)    
+    dbNewname <- AnnotationDbi:::dbObjectName(pkgname,"OrgDb")
     ns <- asNamespace(pkgname)
     assign(dbNewname, db, envir=ns)
     namespaceExport(ns, dbNewname)
+        
+    packageStartupMessage(AnnotationDbi:::annoStartupMessages("org.Tcastaneum.eg.db"))
 }
 
 .onUnload <- function(libpath)
