@@ -39,7 +39,7 @@ Organism metadata used during package generation:
 - NCBI taxonomy ID: `7070`
 - Genus: `Tribolium`
 - Species: `castaneum`
-- Package version: `1.0.0`
+- Package version: `1.1.0`
 
 ## How The Package Was Built
 
